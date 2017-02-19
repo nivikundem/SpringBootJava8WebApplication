@@ -1,7 +1,7 @@
 # Spring Boot Java8 WebApplication
 Spring Boot Java8 QE2WebApplication
 ==================
-Webapplication using Java8, Springboot's  MVC, JPA, JMS, SOAP Client/Servier, REST Client/Server and Maven
+Webapplication using Java8, Springboot's  MVC, JPA, JMS, SOAP Client/Server, REST Client/Server and Maven
 
 
 To Run
